@@ -1,0 +1,8 @@
+/*Se encarga de que el contenido del body ocupe el 100% de la pagina mandando el footer a la parte inferior*/
+
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
