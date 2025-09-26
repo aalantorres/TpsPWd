@@ -1,0 +1,5 @@
+las correciones del tp 1/2/3 estan en el repo: https://github.com/aalantorres/TpsPWd
+
+la base de datos del tp4 debe llamarse PWD o el nombre que hayan utilizado.
+
+modificar user y password a los que utilicen
